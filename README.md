@@ -8,4 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/hymancortista/osticket-ticketlifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/hymancortista/activedirectory-configuration)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hymancortista/activedirectory-accountlockout)
+  - [Handling Account Lockouts in Active Directory](https://github.com/hymancortista/activedirectory-accountlockout)
