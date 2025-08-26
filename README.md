@@ -8,4 +8,5 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/hymancortista/osticket-ticketlifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/hymancortista/activedirectory-configuration)
+  - [Deploying Active Directory](https://github.com/hymancortista/activedirectory-deploy)
   - [Handling Account Lockouts in Active Directory](https://github.com/hymancortista/activedirectory-accountlockout)
